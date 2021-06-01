@@ -13,6 +13,8 @@
  <a href = "mailto: lorenasandrade.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorena-silva-ba3aa6103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
   
+  ###
+  
    <img align="" alt="sponje-bob" src="https://static.wixstatic.com/media/e3971c_498f068e97674f0daa61f5d4835a6f78~mv2.gif">
   
   ![Snake animation](https://github.com/Lorenaasilva/Lorenaasilva/blob/output/github-contribution-grid-snake.svg)
