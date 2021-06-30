@@ -1,4 +1,5 @@
-  ## Olá pessoal, meu nome é Lorena Silva :sunflower:<br>
+  # Olá pessoal, meu nome é Lorena Silva :sunflower:<br>
+  Sou estudante de ADS aprofundando meus conhecimentos em desenvolvimento web e na área de testes/qualidade, venho trabalhando no meu portfólio sempre buscando novas oportunidades de agregar conhecimento. Sou apaixonada :heartpulse: por animais e principalmente cachorrinhos, inclusive tenho uma mocinha linda chamada __Dory__. :dog: :tropical_fish: <br><br>
    <div>
   <a href="https://github.com/Lorenaasilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lorenaasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
