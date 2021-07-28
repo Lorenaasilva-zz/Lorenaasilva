@@ -18,7 +18,7 @@
   
   ###
   
-   <img align="" alt="sponje-bob" src="https://static.wixstatic.com/media/e3971c_498f068e97674f0daa61f5d4835a6f78~mv2.gif">
+   <img align="center" alt="sponje-bob" src="https://static.wixstatic.com/media/e3971c_498f068e97674f0daa61f5d4835a6f78~mv2.gif">
   
   ![Snake animation](https://github.com/Lorenaasilva/Lorenaasilva/blob/output/github-contribution-grid-snake.svg)
 
