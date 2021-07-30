@@ -3,9 +3,12 @@
  <br> Apaixonada :heartpulse: por animais e principalmente cachorrinhos, inclusive tenho uma mocinha linda chamada __Dory__. :dog: :tropical_fish: <br><br>
    <div>
   <a href="https://github.com/Lorenaasilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lorenaasilva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenaasilva&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lorenaasilva&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenaasilva&layout=compact&langs_count=16&theme=nightowl"/>
 <div>
+  
+  ##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lorena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lorena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +21,7 @@
   
   ###
   
-   <img align="center" alt="sponje-bob" src="https://static.wixstatic.com/media/e3971c_498f068e97674f0daa61f5d4835a6f78~mv2.gif">
+   <img align="left" alt="sponje-bob" src="https://static.wixstatic.com/media/e3971c_498f068e97674f0daa61f5d4835a6f78~mv2.gif">
   
   ![Snake animation](https://github.com/Lorenaasilva/Lorenaasilva/blob/output/github-contribution-grid-snake.svg)
 
