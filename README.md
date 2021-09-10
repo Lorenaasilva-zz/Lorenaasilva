@@ -1,5 +1,5 @@
   # Olá pessoal, meu nome é Lorena Silva :sunflower:<br>
-  Sou estudante de ADS aprofundando meus conhecimentos em desenvolvimento web e na área de testes/qualidade. Venho trabalhando no meu portfólio sempre buscando novas oportunidades de agregar conhecimento.
+  Sou Analista de Qualidade e venho trabalhando no meu portfólio com o objetivo de aprender novas coisas e consolidar conhecimento.
  <br> Apaixonada :heartpulse: por animais e principalmente cachorrinhos, inclusive tenho uma mocinha linda chamada __Dory__. :dog: :tropical_fish: <br><br>
    <div>
   <a href="https://github.com/Lorenaasilva">
