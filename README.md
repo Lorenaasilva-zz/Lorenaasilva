@@ -1,5 +1,5 @@
   # Olá pessoal, meu nome é Lorena Silva :sunflower:<br>
-  Sou Analista de Qualidade trainee e venho trabalhando no meu portfólio com o objetivo de aprender novas coisas e consolidar conhecimento.
+  Sou Analista de Qualidade trainee e venho trabalhando no meu portfólio com o objetivo de aprender novas tecnologias e consolidar conhecimento.
  <br> Apaixonada :heartpulse: por animais e principalmente cachorrinhos, inclusive tenho uma mocinha linda chamada __Dory__. :dog: :tropical_fish: <br><br>
    <div>
   <a href="https://github.com/Lorenaasilva">
