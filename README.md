@@ -1,5 +1,17 @@
   # Olá pessoal, meu nome é Lorena Silva :sunflower:<br>
-  Sou Analista de Qualidade trainee e venho trabalhando no meu portfólio com o objetivo de aprender novas tecnologias e consolidar conhecimento.
+Sou Analista de Qualidade e tenho trilhado minha caminhada com muito empenho e dedicação afim de cada vez mais adquirir conhecimento e agregar valor a minha carreira. 
+
+### Atividades desempenhadas: 
+Planejamento e execução de testes
+Testes Funcionais, Regressivos, Exploratórios
+Testes de API Manual
+Gestão de testes, defeitos e tarefas com Jira e Azure DevOps
+Jenkins
+Metodologia Ágil 
+Possuo conhecimento básico em Automação funcional Selenium com C# 
+Iniciei os estudos utilizando Cypress com JavaScrtipt
+
+Sou determinada, comunicativa e muito focada em atingir meus objetivos. 
  <br> Apaixonada :heartpulse: por animais e principalmente cachorrinhos, inclusive tenho uma mocinha linda chamada __Dory__. :dog: :tropical_fish: <br><br>
    <div>
   <a href="https://github.com/Lorenaasilva">
